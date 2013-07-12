@@ -1,0 +1,4 @@
+[0709/231936:ERROR:tcp_listen_socket.cc(72)] Could not bind socket to 127.0.0.1:9234
+[0709/231942:ERROR:cache_util_win.cc(43)] Unable to move the cache: 5
+[0709/231942:ERROR:backend_impl.cc(134)] Unable to move cache folder C:\Users\Sbg\AppData\Roaming\Adobe\Reflow\cef_data to C:\Users\Sbg\AppData\Roaming\Adobe\Reflow\old_cef_data_000
+[0709/231942:ERROR:backend_impl.cc(221)] Unable to create cache

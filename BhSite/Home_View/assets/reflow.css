@@ -1,0 +1,230 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 90%;
+}
+#box {
+    float: left;
+    height: 664px;
+    margin-left: 0%;
+    margin-top: 19px;
+    clear: none;
+    width: 57.38496403586561%;
+}
+#box1 {
+    float: left;
+    height: 28px;
+    margin-left: 74.50769230769231%;
+    margin-top: 11px;
+    clear: none;
+    width: 25.4967032967033%;
+    display: block;
+    background-image:-webkit-linear-gradient(270deg,white 0%,rgb(232,51,51) 100%);
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+#box3 {
+    float: left;
+    height: 104px;
+    margin-left: 7.254945054945054%;
+    margin-top: 29px;
+    clear: none;
+    width: 33.54958791208791%;
+    background-image:-webkit-linear-gradient(270deg,white 0%,rgb(50,101,119) 100%);
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+#reflow-803e9d5e-32af-a1d2-22e1-604da1e7bd01 {
+    margin-left: 154px;
+}
+#reflow-414eea7c-0072-fee9-e6a8-ae98b6b006ec {
+    margin-left: 67.5px;
+}
+#box4 {
+    float: left;
+    height: 104px;
+    margin-left: 11.070192307692308%;
+    margin-top: 29px;
+    clear: none;
+    width: 33.84835164835165%;
+    background-image:-webkit-linear-gradient(270deg,white 0%,rgb(50,101,119) 100%);
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+#box2 {
+    float: left;
+    height: 130px;
+    margin-left: 0%;
+    margin-top: 67px;
+    clear: both;
+    width: 3.5186813186813186%;
+    background-image:-webkit-linear-gradient(270deg,white 0%,rgb(193,187,48) 100%);
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+#reflow-3bebf3d1-bbc0-6372-b1c9-9435a4ae8cf6 {
+    margin-left: 49px;
+}
+#box5 {
+    float: left;
+    height: 424px;
+    margin-left: -78.46373626373627%;
+    margin-top: 176px;
+    clear: none;
+    width: 78.46373626373627%;
+    background-image:-webkit-linear-gradient(270deg,white 0%,black 100%);
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+#reflow-0d0a3e52-708d-5c45-c2fe-8a4aba6d612c {
+    margin-left: 135px;
+}
+#box6 {
+    float: left;
+    height: 21px;
+    margin-left: 24.372549019607845%;
+    margin-top: 0px;
+    clear: none;
+    width: 51.54341736694678%;
+    background-image:-webkit-linear-gradient(270deg,white 0%,rgb(62,175,180) 100%);
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+#reflow-0367f23d-bf88-9129-cd8f-d0f727e957f3 {
+    margin-left: 0px;
+}
+#reflow-53947b5b-4307-0384-98a6-79e98b7caa72 {
+    margin-left: 89px;
+}
+#reflow-ed7d5965-e47f-3e11-33c6-401a83d4b09d {
+    margin-left: 152.640625px;
+}
+#reflow-f02daf2b-6eaa-52d0-60eb-f8d821ce4e77 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 11px;
+    margin-top: 28px;
+    clear: none;
+}
+#text {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0.8706896551724137%;
+    margin-top: 1px;
+    clear: none;
+    min-height: 28px;
+}
+#reflow-d3f0c474-f35d-b3ba-e494-7996760bd2f1 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 387px;
+    margin-top: 4px;
+    clear: both;
+}
+#text2 {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0.6616849216910635%;
+    margin-top: 38px;
+    clear: none;
+    min-height: 35px;
+    visibility: visible;
+    display: block;
+    overflow: hidden;
+    font-style: normal;
+    color: rgb(32, 85, 12);
+}
+#text3 {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0%;
+    margin-top: 38px;
+    clear: none;
+    min-height: 35px;
+}
+#reflow-8964dbd3-00bb-792b-72d1-6029c692875f {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 116px;
+    margin-top: 21px;
+    clear: none;
+}
+#text4 {
+    float: left;
+    font-size: 1em;
+    width: 99.46195652173913%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 21px;
+}
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 130px;
+}

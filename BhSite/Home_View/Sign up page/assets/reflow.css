@@ -1,0 +1,95 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 90%;
+}
+#box {
+    float: left;
+    height: 564px;
+    margin-left: 14.631274017144547%;
+    margin-top: 27px;
+    clear: none;
+    width: 62.178815646861764%;
+}
+#box1 {
+    float: left;
+    height: 118px;
+    margin-left: 27.588235294117645%;
+    margin-top: 35px;
+    clear: none;
+    width: 45.03245436105476%;
+}
+#reflow-d9df0c15-031c-428a-8ab7-3072c6a766df {
+    margin-left: 86.5px;
+}
+#box3 {
+    float: left;
+    height: 309px;
+    margin-left: 4.0588235294117645%;
+    margin-top: 8px;
+    clear: both;
+    width: 92.0892494929006%;
+}
+#text {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0%;
+    margin-top: 29px;
+    clear: none;
+    min-height: 63px;
+}
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    text-transform: none;
+    opacity: 1;
+    font-family: 'times new roman';
+    color: rgb(18, 160, 94);
+}
+#box2 {
+    float: left;
+    height: 30px;
+    margin-left: 4.0588235294117645%;
+    margin-top: 28px;
+    clear: both;
+    width: 30.02231237322515%;
+}
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: 90.54729729729729%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 5.412162162162161%;
+    margin-top: 6px;
+    clear: none;
+    min-height: 18px;
+}
+#reflow-e8731410-1557-3c91-a124-0cc45f338fd2 {
+    margin-left: 328.5px;
+}
+#reflow-fe6f917e-5cc7-b238-f6a5-089e4efa2eff {
+    margin-left: 135px;
+}
+#reflow-55d7542a-5001-277a-1d3e-2dd2a8e6323d {
+    margin-left: 135px;
+}
+#reflow-627d5576-44b9-1f14-65bf-d221a4f70abb {
+    margin-left: 135px;
+}
+#reflow-671a1557-7d95-317f-a03a-eeb6ee91d71f {
+    margin-left: 134.5px;
+}
